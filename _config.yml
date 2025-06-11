@@ -1,5 +1,5 @@
 title: Chris M
-#logo: assets/github_pfp.jpg
-#description: My repo to showcase my data science portfolio.
-#show_downloads: true
+logo: assets/github_pfp.jpg
+description: My repo to showcase my data science portfolio.
+show_downloads: true
 theme: jekyll-theme-minimal
