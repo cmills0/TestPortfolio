@@ -1,4 +1,4 @@
-![pfp](assets/github_pfp.jpg)
+
 
 # Data Science Degree Apprentice
 
