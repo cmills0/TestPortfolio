@@ -1,6 +1,5 @@
 title: Chris M
-description: >
-  My repo to showcase my data science portfolio.
-
-markdown: kramdown
-theme minima
+logo: C:\Users\mills\images\github_pfp.png
+# description: My repo to showcase my data science portfolio.
+show_downloads: true
+theme: jekyll-theme-minimal
